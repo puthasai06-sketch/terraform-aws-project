@@ -1,5 +1,10 @@
 *.zip
 *.pem
+
 jenkins.war
 jenkins.log
 nohup.out
+
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
