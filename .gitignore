@@ -1,1 +1,5 @@
-.idea/
+*.zip
+*.pem
+jenkins.war
+jenkins.log
+nohup.out
